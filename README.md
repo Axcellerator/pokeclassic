@@ -13,6 +13,6 @@ To compile this rom yourself, see [Pret's Installation Guide](https://github.com
 Otherwise, patch files will occasionaly be released here. These will be slower to release than pulling updates yourself. To patch this game, you will need to provide your own rom.
 
 # Credits
-Special thanks to  Hyo Oppa, Wolf, Solo993, Bushbugger, PokeMerp, Lunos, TheXaman, Ghoulslash, citrusbolt, asparaguseduardo, exposeed, surskitty, GriffinR, & the Pret Discord.
+Special thanks to  Hyo Oppa, Wolf, Solo993, Bushbugger, PokeMerp, Lunos, TheXaman, Ghoulslash, citrusbolt, jaizu, asparaguseduardo, exposeed, surskitty, GriffinR, & the Pret Discord. If I missed your credits, just let me know!
 
 
